@@ -1,2 +1,5 @@
+RENCANA NazaruddinPrograming
+
 membuat wibesite penjualan
 membuat aplikasi data mahasiswa
+membuat aplikasi kasir
